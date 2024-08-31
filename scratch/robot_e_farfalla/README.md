@@ -1,6 +1,6 @@
-# Flappy parrot
+# Robot e farfalla
 
-Cerca di far passare il pappagallo tra i tubi.
+Fai pattinare il robot mentre la farfalla gli gira attorno.
 
 ![Immagine](thumbnail.png)
 
