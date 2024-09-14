@@ -7,7 +7,7 @@ Se volete contattarci, sul nostro sito ci sono i [riferimenti](https://coderdojo
 
 ## Licenza
 
-I testi dei tutorial sono distribuiti con licenza
+I tutorial sono distribuiti con licenza
 
 ![Licenza Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
